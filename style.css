@@ -1,0 +1,16 @@
+.container{
+    margin:0 auto;
+    text-align: center;
+}
+img{
+    width:23rem;
+    height:22rem;
+    object-fit:cover;
+    background: red;
+    margin:0.25rem 0.25rem 0.25rem 0.25rem;
+    border-radius: 0.5rem;
+    opacity:0.8;
+}
+img:hover{
+    opacity:1;
+}
